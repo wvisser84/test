@@ -1,0 +1,104 @@
+.header{
+    background-color: #f65a00ea;
+    max-width: 100%;
+    height: 220px;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 150px;
+    color: black;
+    background-color:#d55c00e5;
+    max-width: auto;
+    text-align: center;
+    clear: both;
+}
+.ul{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #d55c00e5;
+    padding: 5px;
+    color: white;
+}
+ul a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}    
+li{
+    font-size: small;
+    display: inline-block;
+    height: 20px;
+}
+.col-3{
+    background-color: #fab278;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 300px;
+    height: 100%;
+    margin: 0px;
+}
+.col-9{
+    max-width: auto;
+}
+.img1{
+    margin-left: 25px;
+}
+.img2{
+    margin-left: 15px;
+}
+.p1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+.p2{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p3{
+    color: #d55c00e5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+.p4{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: auto;
+}
+.p5{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    line-height: 2px;
+}
+.p6{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    width: 300px;
+}
+input[type="text"], input[type="email"], textarea, select, button{
+    display: block;
+    margin: 15px 0px;
+    max-width: 800px;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+textarea{
+    height: 200px;
+    padding: 5px 4px;
+}
+button{
+    background-color: #d55c00e5;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 4px;
+    border-color: #d55c00e5;
+}
